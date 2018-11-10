@@ -1,0 +1,11 @@
+         {
+          "metadata": {},
+          "result": {
+            "frequency": 0,
+            "lemma": "string",
+            "lexicalCategory": "string",
+            "matchCount": 0,
+            "normalizedFrequency": 0,
+            "trueCase": "string",
+            "wordform": "string"
+          }

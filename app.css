@@ -1,0 +1,35 @@
+body {
+    background-color:blue;
+}
+header, footer {
+    background-color: rgb(21, 143, 224);
+    color: aliceblue;
+    padding:20px;
+    text-align: center;
+}
+h2{
+        width:250px;
+        font-size: 16px;
+        padding: 12px 20px 12px;
+}
+header {
+    color: rgb(21, 123, 219);
+}
+
+.words-container-dropdown {
+    position:absolute;
+    z-index:1;
+    width:100%;
+    height:200px;
+    background:#F6F6F6;
+    overflow-y:auto;
+}
+.words {
+    padding:50px;
+    font-family: sans-sacrif;
+    color:#A550BC;
+}
+.word:hover{
+    background:#C2C2C2;
+}
+

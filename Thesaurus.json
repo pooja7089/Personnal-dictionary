@@ -1,0 +1,146 @@
+        {
+          
+          "metadata": {},
+          "results": [
+            {
+              "id": "string",
+              "language": "string",
+              "lexicalEntries": [
+                {
+                  "entries": [
+                    {
+                      "homographNumber": "string",
+                      "senses": [
+                        {
+                          "antonyms": [
+                            {
+                              "domains": [
+                                "string"
+                              ],
+                              "id": "string",
+                              "language": "string",
+                              "regions": [
+                                "string"
+                              ],
+                              "registers": [
+                                "string"
+                              ],
+                              "text": "string"
+                            }
+                          ],
+                          "domains": [
+                            "string"
+                          ],
+                          "examples": [
+                            {
+                              "definitions": [
+                                "string"
+                              ],
+                              "domains": [
+                                "string"
+                              ],
+                              "notes": [
+                                {
+                                  "id": "string",
+                                  "text": "string",
+                                  "type": "string"
+                                }
+                              ],
+                              "regions": [
+                                "string"
+                              ],
+                              "registers": [
+                                "string"
+                              ],
+                              "senseIds": [
+                                "string"
+                              ],
+                              "text": "string",
+                              "translations": [
+                                {
+                                  "domains": [
+                                    "string"
+                                  ],
+                                  "grammaticalFeatures": [
+                                    {
+                                      "text": "string",
+                                      "type": "string"
+                                    }
+                                  ],
+                                  "language": "string",
+                                  "notes": [
+                                    {
+                                      "id": "string",
+                                      "text": "string",
+                                      "type": "string"
+                                    }
+                                  ],
+                                  "regions": [
+                                    "string"
+                                  ],
+                                  "registers": [
+                                    "string"
+                                  ],
+                                  "text": "string"
+                                }
+                              ]
+                            }
+                          ],
+                          "id": "string",
+                          "regions": [
+                            "string"
+                          ],
+                          "registers": [
+                            "string"
+                          ],
+                          "subsenses": [
+                            {}
+                          ],
+                          "synonyms": [
+                            {
+                              "domains": [
+                                "string"
+                              ],
+                              "id": "string",
+                              "language": "string",
+                              "regions": [
+                                "string"
+                              ],
+                              "registers": [
+                                "string"
+                              ],
+                              "text": "string"
+                            }
+                          ]
+                        }
+                      ],
+                      "variantForms": [
+                        {
+                          "regions": [
+                            "string"
+                          ],
+                          "text": "string"
+                        }
+                      ]
+                    }
+                  ],
+                  "language": "string",
+                  "lexicalCategory": "string",
+                  "text": "string",
+                  "variantForms": [
+                    {
+                      "regions": [
+                        "string"
+                      ],
+                      "text": "string"
+                    }
+                  ]
+                }
+              ],
+              "type": "string",
+              "word": "string"
+            }
+          ]
+        }
+
+

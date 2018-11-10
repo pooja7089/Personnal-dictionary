@@ -1,0 +1,36 @@
+          {
+          "metadata": {},
+          "results": [
+            {
+              "region": "string",
+              "source": "string",
+              "sourceLanguage": {
+                "id": "string",
+                "language": "string"
+              },
+              "targetLanguage": {
+                "id": "string",
+                "language": "string"
+              },
+              "type": "monolingual"
+            },
+{
+  "metadata": {},
+  "results": {
+    "entries": [
+      "string"
+    ],
+    "inflections": [
+      "string"
+    ],
+    "translations": [
+      "string"
+    ],
+    "wordlist": [
+      "string"
+    ]
+  }
+    
+  
+
+  
